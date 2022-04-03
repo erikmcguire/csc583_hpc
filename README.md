@@ -1,7 +1,3 @@
-# CSC 583: Augmenting GPT-2 with Hierarchical Predictive Processing for Story Ending Prediction
-
-Class project for CSC 583, Fall 2021-2022 at DePaul University. 
-
 - [Notebook](https://colab.research.google.com/drive/1xu4SYsa4hNxO1Nnk7gjzAVKHa_moyzb9)
 
 ## Abstract
