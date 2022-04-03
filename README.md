@@ -3,6 +3,7 @@
 Class project for CSC 583, Fall 2021-2022 at DePaul University.
 
 - [Notebook](https://colab.research.google.com/drive/1xu4SYsa4hNxO1Nnk7gjzAVKHa_moyzb9)
+- [Paper](https://github.com/erikmcguire/predictive_coding/blob/main/csc583-mcguire_erik_pc_v3.pdf)
 
 ## Abstract
 
