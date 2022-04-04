@@ -1,6 +1,5 @@
 ---
-layout: page
-title: CSC 583: Augmenting GPT-2 with Hierarchical Predictive Processing for Story Ending Prediction
+title: "CSC 583: Augmenting GPT-2 with Hierarchical Predictive Processing for Story Ending Prediction"
 ---
 
 - [Notebook](https://colab.research.google.com/drive/1xu4SYsa4hNxO1Nnk7gjzAVKHa_moyzb9)
