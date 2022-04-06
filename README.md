@@ -3,7 +3,7 @@
 - [Notebook](https://colab.research.google.com/drive/1xu4SYsa4hNxO1Nnk7gjzAVKHa_moyzb9)
 - [Paper](https://github.com/erikmcguire/predictive_coding/blob/main/csc583-mcguire_erik_pc_v3.pdf)
 
-![PC diagram](https://github.com/erikmcguire/csc583_hpc/blob/main/assets/pc_full_dia.png)
+![PC diagram](https://github.com/erikmcguire/csc583_hpc/blob/main/assets/pc_full_dia.png){ width=50%}
 
 ## Abstract
 
